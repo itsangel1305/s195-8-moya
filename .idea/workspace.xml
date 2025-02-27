@@ -30,6 +30,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -110,6 +116,7 @@
       <updated>1740169603243</updated>
       <workItem from="1740169604334" duration="3834000" />
       <workItem from="1740614614248" duration="3093000" />
+      <workItem from="1740618056840" duration="363000" />
     </task>
     <task id="LOCAL-00001" summary="actividad 5">
       <option name="closed" value="true" />
@@ -167,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740617717475</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="actividad">
+      <option name="closed" value="true" />
+      <created>1740618158551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740618158551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="actividad">
+      <option name="closed" value="true" />
+      <created>1740618264722</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740618264722</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
