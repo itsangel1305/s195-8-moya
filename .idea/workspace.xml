@@ -109,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1740169603243</updated>
       <workItem from="1740169604334" duration="3834000" />
-      <workItem from="1740614614248" duration="2225000" />
+      <workItem from="1740614614248" duration="2750000" />
     </task>
     <task id="LOCAL-00001" summary="actividad 5">
       <option name="closed" value="true" />
@@ -127,13 +127,38 @@
       <option name="project" value="LOCAL" />
       <updated>1740616838788</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="actividad 5">
+      <option name="closed" value="true" />
+      <created>1740616966910</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740616966910</updated>
+    </task>
+    <task id="LOCAL-00004" summary="actividad 5">
+      <option name="closed" value="true" />
+      <created>1740617292430</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740617292430</updated>
+    </task>
+    <task id="LOCAL-00005" summary="actividad 5">
+      <option name="closed" value="true" />
+      <created>1740617380929</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740617380929</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="actividad 5sd" />
     <MESSAGE value="actividad 5" />
     <option name="LAST_COMMIT_MESSAGE" value="actividad 5" />
   </component>
