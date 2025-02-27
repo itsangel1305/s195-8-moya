@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f80c721c-f4d9-4167-883d-fd557ad483f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/S195-Angeldani.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/database_students.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f80c721c-f4d9-4167-883d-fd557ad483f9" name="Changes" comment="actividad 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/itsangel1305/s195-8-moya",
+    "accountId": "4e281123-2543-435e-913b-2c6efa426ec4"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -106,14 +103,35 @@
       <option name="presentableId" value="Default" />
       <updated>1740169603243</updated>
       <workItem from="1740169604334" duration="3834000" />
-      <workItem from="1740614614248" duration="1815000" />
+      <workItem from="1740614614248" duration="2225000" />
     </task>
+    <task id="LOCAL-00001" summary="actividad 5">
+      <option name="closed" value="true" />
+      <created>1740616609138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740616609138</updated>
+    </task>
+    <task id="LOCAL-00002" summary="actividad 5">
+      <option name="closed" value="true" />
+      <created>1740616838788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740616838788</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="actividad 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="actividad 5" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/S195_Angeldani$S195_Angeldani.coverage" NAME="S195-Angeldani Coverage Results" MODIFIED="1740616196282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/S195_Angeldani$S195_Angeldani.coverage" NAME="S195-Angeldani Coverage Results" MODIFIED="1740616412761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
