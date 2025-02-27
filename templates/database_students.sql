@@ -12,7 +12,7 @@ CREATE TABLE students(
 );
 
 INSERT INTO students(FirstName, Surname)
-VALUES('John ss', 'Andersen'), ('Emma', 'Smith');
+VALUES('John sss', 'Andersen'), ('Emma', 'Smith');
 
 SELECT * FROM students;
 
